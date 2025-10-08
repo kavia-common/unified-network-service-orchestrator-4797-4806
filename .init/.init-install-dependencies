@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/unified-network-service-orchestrator-4797-4806/network_provisioning_frontend"
+}
